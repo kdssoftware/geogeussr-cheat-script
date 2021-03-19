@@ -2,7 +2,7 @@ create an api key from [opencagedata.com](https://www.opencagedata.com.com) and 
 
 ensure cors is off. [moesif](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) extension
 
-run the script in the console everytime after its the images from google streetview is loaded. 
+run the script in the console everytime *after* the images from google streetview is loaded. 
 
 You might have to turn off the cors for making some request with geogeussr.
 
