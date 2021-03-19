@@ -1,6 +1,6 @@
 create an api key from [opencagedata.com](https://www.opencagedata.com.com) and paste it in the `api` variable in the cheater.js file.
 
-ensure cors is off. [moesif.com/](https://www.moesif.com/)
+ensure cors is off. [moesif](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) extension
 
 run the script in the console everytime after its the images from google streetview is loaded. 
 
